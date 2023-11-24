@@ -23,9 +23,7 @@
 　　　
 
 ### 💻커밋 규칙
-- ㅜ: [BOJ-문제번호] 문제 제목 <br/>
-  예시) [BOJ-214295] 퍼텐셜 그래프 1<br/>
-- 프로그래머스 : [PGM-문제번호] 문제 제목 <br/>
-  예시) [PGM-214295] 퍼텐셜 그래프 1<br/>
-- 자료구조 책 공부 : [BOOK-실습문제번호]<br/>
-  예시) [BOOK-1-6] <br/>
+- commit : file name : insert what and why
+ex. new : Training.py : common data set
+ex. update : Test.py : revision lines for managing error
+ex. delete : Recommendation.py : draft file
