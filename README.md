@@ -23,7 +23,4 @@
 　　　
 
 ### 💻커밋 규칙
-- commit : file name : insert what and why
-ex. new : Training.py : common data set
-ex. update : Test.py : revision lines for managing error
-ex. delete : Recommendation.py : draft file
+- INSERT/UPDATE/DELETE : file name : insert what and why
