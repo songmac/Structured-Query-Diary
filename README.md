@@ -5,7 +5,7 @@
 - 엑셀로도 진행 할 수 있지만 대용량 데이터를 다루기 위해서는 SQL이라는 도구를 활용해야 함
 
 # SQL을 이용한 DB관리 시스템
-<img src="images/DB관리 시스템의 종류.png" alt="DB관리 시스템의 종류" width="100" height="100">
+<img src="images/DB관리 시스템의 종류.png" alt="DB관리 시스템의 종류" width="300" height="200">
 
 # 학습 주기
 - 하루에 30분/주3회 이상 커밋
