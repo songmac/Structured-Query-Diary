@@ -14,15 +14,18 @@
 - MySQL과 Oracle DB를 사용하여 학습
 
 # 학습 교재
-<img src="images/SQL첫걸음.png" alt="SQL첫걸음" width="200" height="350">
-[SQL 첫걸음(MySQL사용)](https://product.kyobobook.co.kr/detail/S000001057649 "SQL 첫걸음 - 도서 링크")
+<p align="center">
 
+<img src="images/SQL첫걸음.png" alt="SQL첫걸음" width="250" height="350">
+[SQL 첫걸음](https://product.kyobobook.co.kr/detail/S000001057649)
 
-<img src="images/SQL개발자.png" alt="SQL개발자 SQLD과외노트" width="200" height="350">
-[SQL개발자 SQLD과외노트(Oracle사용)](https://product.kyobobook.co.kr/detail/S000200050101 "SQL개발자 SQLD과외노트 - 도서 링크")
+<img src="images/SQL개발자.png" alt="SQL개발자 SQLD과외노트" width="250" height="350">
+[SQL개발자 SQLD과외노트](https://product.kyobobook.co.kr/detail/S000200050101)
+
+</p>
   
 # 레파지토리 구조
-📂 SQL 첫걸음<br>
+📂 SQL 첫걸음(MySQL사용)<br>
 ├── Part1_데이터베이스와SQL<br>
 │   ├── Chapter1_데이터베이스<br>
 │   │   ├── 01_데이터베이스<br>
@@ -56,7 +59,7 @@
 └── ...<br>
 
 
-📂 SQL개발자_SQLD과외노트<br>
+📂 SQL개발자_SQLD과외노트(Oracle사용)<br>
 ├── Part1_데이터모델링의이해<br>
 │   ├── Chapter1_데이터모델링의이해<br>
 │   │   ├── 01_데이터모델링의이해<br>
