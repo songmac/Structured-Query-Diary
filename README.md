@@ -16,11 +16,11 @@
 # 학습 교재
 <p align="center">
 
-<img src="images/SQL첫걸음.png" alt="SQL첫걸음" width="250" height="350"><br>
-<a href="https://product.kyobobook.co.kr/detail/S000001057649">SQL 첫걸음</a><br>
+   <img src="images/SQL첫걸음.png" alt="SQL첫걸음" width="250" height="350"><br>
+   <a href="https://product.kyobobook.co.kr/detail/S000001057649">SQL 첫걸음</a><br>
 
-<img src="images/SQL개발자.png" alt="SQL개발자 SQLD과외노트" width="250" height="350"><br>
-<a href="https://product.kyobobook.co.kr/detail/S000200050101">SQL개발자 SQLD과외노트</a><br>
+   <img src="images/SQL개발자.png" alt="SQL개발자 SQLD과외노트" width="250" height="350"><br>
+   <a href="https://product.kyobobook.co.kr/detail/S000200050101">SQL개발자 SQLD과외노트</a><br>
 
 </p>
   
