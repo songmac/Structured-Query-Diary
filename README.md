@@ -15,14 +15,18 @@
 
 # 학습 교재
 <p align="center">
-
-   <img src="images/SQL첫걸음.png" alt="SQL첫걸음" width="250" height="350"><br>
-   <a href="https://product.kyobobook.co.kr/detail/S000001057649">SQL 첫걸음</a><br>
-
-   <img src="images/SQL개발자.png" alt="SQL개발자 SQLD과외노트" width="250" height="350"><br>
-   <a href="https://product.kyobobook.co.kr/detail/S000200050101">SQL개발자 SQLD과외노트</a><br>
-
+  <table>
+    <tr>
+      <td><img src="images/SQL첫걸음.png" alt="SQL첫걸음" width="250" height="350"></td>
+      <td><img src="images/SQL개발자.png" alt="SQL개발자 SQLD과외노트" width="250" height="350"></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://product.kyobobook.co.kr/detail/S000001057649">SQL 첫걸음</a></td>
+      <td align="center"><a href="https://product.kyobobook.co.kr/detail/S000200050101">SQL개발자 SQLD과외노트</a></td>
+    </tr>
+  </table>
 </p>
+
   
 # 레파지토리 구조
 📂 SQL 첫걸음(MySQL사용)<br>
