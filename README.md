@@ -12,6 +12,7 @@
 
 # 학습 툴
 - MySQL과 Oracle DB를 사용하여 학습
+- SQL기초에 대한 강의 내용 학습
 
 # 학습 교재
 <p align="center">
